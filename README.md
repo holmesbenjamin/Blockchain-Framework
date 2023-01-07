@@ -50,7 +50,7 @@ See below for example requests:
  "recipient": "address-2",
  "amount": 100
   }
-  ```
+  ``` ```
 ![Screenshot_20230107_140957](https://user-images.githubusercontent.com/112626017/211155044-b37a3760-7434-418d-9339-707ea2fc4313.png)
 ![Screenshot_20230107_141031](https://user-images.githubusercontent.com/112626017/211155046-9da2ad72-b522-4f62-9a81-8c47f679894f.png)
 
