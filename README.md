@@ -12,7 +12,7 @@ Please install the following packages in comand prompt to begin:
   ```sh
   python pip install requests==2.18.4 
   ```
-I used three methods:
+I used 4 endpoints:
 * Create a new transaction to a block
   ```sh
   /transactions/new
@@ -33,12 +33,8 @@ See below for example requests:
 
 * When sending data to the server send in JSON format something like this:
   ```sh
-  {
- "sender": "d4ee26eee15148ee92c6cd394edd974e",
- "recipient": "address-2",
- "amount": 100
-  }
-  ``` ```
+  { "sender": "d4ee26eee15148ee92c6cd394edd974e", "recipient": "address-2", "amount": 100 }
+  ```
 ![Screenshot_20230107_140957](https://user-images.githubusercontent.com/112626017/211155044-b37a3760-7434-418d-9339-707ea2fc4313.png)
 ![Screenshot_20230107_141031](https://user-images.githubusercontent.com/112626017/211155046-9da2ad72-b522-4f62-9a81-8c47f679894f.png)
 
